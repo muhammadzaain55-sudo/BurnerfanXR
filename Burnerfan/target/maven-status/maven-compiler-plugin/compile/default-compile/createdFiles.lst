@@ -1,0 +1,14 @@
+com\example\minecraftai\ai\AIAgent$2.class
+com\example\minecraftai\ai\NeuralNetworkManager$1.class
+com\example\minecraftai\listeners\PlayerEventListener.class
+com\example\minecraftai\ai\AIPlayerController.class
+com\example\minecraftai\data\PlayerState.class
+com\example\minecraftai\data\PlayerStateCollector.class
+com\example\minecraftai\data\PlayerStateCollector$1.class
+com\example\minecraftai\ai\AIAgent.class
+com\example\minecraftai\ai\NeuralNetworkManager.class
+com\example\minecraftai\commands\AIAgentCommand.class
+com\example\minecraftai\data\PlayerStateCollector$2.class
+com\example\minecraftai\data\PlayerStateCollector$PlayerEvent.class
+com\example\minecraftai\MinecraftAIPlugin.class
+com\example\minecraftai\ai\AIAgent$1.class

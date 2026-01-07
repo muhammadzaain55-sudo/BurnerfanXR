@@ -1,0 +1,17 @@
+name: MinecraftAIPlugin
+version: 1.0.0
+main: com.example.minecraftai.MinecraftAIPlugin
+api-version: 1.20
+author: YourName
+description: AI training plugin that exposes player state to DL4J
+
+commands:
+  aiagent:
+    description: Control the AI agent
+    usage: /aiagent <start|stop|status>
+    permission: minecraftai.admin
+
+permissions:
+  minecraftai.admin:
+    description: Allows access to AI agent commands
+    default: op
